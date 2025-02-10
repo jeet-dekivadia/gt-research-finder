@@ -2,13 +2,6 @@
 
 import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
-import {
-  Accordion,
-  AccordionContent,
-  AccordionItem,
-  AccordionTrigger,
-} from "@/components/ui/accordion"
-import { Button } from "@/components/ui/button"
 
 const faqs = [
   {
