@@ -44,7 +44,7 @@ export default function Hero() {
       >
         <div className="relative w-full h-full">
           <Image
-            src="/gt-logo.png"
+            src="/websitebg.png"
             alt="GT Research Lab"
             fill
             priority
